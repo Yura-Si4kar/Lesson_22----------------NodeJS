@@ -1,0 +1,1 @@
+module.exports = (b) => result -= b;
